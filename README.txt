@@ -1,0 +1,1 @@
+To activate Special Variant, press the 'm' Key. This can only be activated once per scene/wave.

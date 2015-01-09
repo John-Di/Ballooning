@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 880f831e8e0a7ee4f9ec8e87a30af070
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clusterCenter: {fileID: 100000, guid: 60fdde231a3ad7e47a11e90ce5515a37, type: 2}
+  - hotAirBalloon: {fileID: 11400000, guid: d4448e6952e71f74aab35c0651a2c9a8, type: 2}
+  - pumpkin: {fileID: 11400000, guid: e255c7e0fb1bbef4e8f2df69db784527, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
